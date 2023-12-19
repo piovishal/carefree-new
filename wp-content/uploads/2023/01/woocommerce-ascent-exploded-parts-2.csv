@@ -1,0 +1,10 @@
+Type,SKU,Name,"Meta: _et_pb_old_content","In stock?","Regular price",Images,Parent,"Attribute 1 name","Attribute 1 value(s)","Attribute 1 visible","Attribute 1 global","Attribute 2 name","Attribute 2 value(s)","Attribute 2 visible","Attribute 2 global","Attribute 3 name","Attribute 3 value(s)","Attribute 3 visible","Attribute 3 global"
+variable,R001111---,"Cap, Channel, Top","",1,0,https://www.carefreeofcolorado.com/images/photos/R001111BLK.jpg,,Color,"Black,White",1,0,,,,,,,,
+variation,R001111BLK,,,1,28.22,,"R001111---",Color,"Black",1,0,,,,,,,,
+variation,R001111WHT,,,1,28.22,,"R001111---",Color,"White",1,0,,,,,,,,
+variable,R001104---,"Motor Assembly","",1,0,,,Color,"Black,White",1,0,,,,,,,,
+variation,R001104BLK,,,1,357.52,,"R001104---",Color,"Black",1,0,,,,,,,,
+variation,R001104WHT,,,1,357.52,,"R001104---",Color,"White",1,0,,,,,,,,
+variable,R001107---,"Idler Assembly","",1,0,,,Color,"Black,White",1,0,,,,,,,,
+variation,R001107BLK,,,1,127.35,,"R001107---",Color,"Black",1,0,,,,,,,,
+variation,R001107WHT,,,1,127.35,,"R001107---",Color,"White",1,0,,,,,,,,

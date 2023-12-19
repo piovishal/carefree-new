@@ -1,0 +1,1 @@
+2023-12-07T10:08:24+00:00 ERROR Error comparing payment methods in Braintree with WordPress. User ID: 12. Exception: Braintree\Exception\NotFound

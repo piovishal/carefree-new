@@ -1,0 +1,48 @@
+2023-12-10T02:21:46+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 46
+
+2023-12-10T02:30:13+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 51
+
+2023-12-10T02:30:17+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 51
+
+2023-12-10T04:00:47+00:00 CRITICAL Uncaught TypeError: curl_setopt_array(): The CURLOPT_HTTPHEADER option must have an array value in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:69
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(69): curl_setopt_array(Object(CurlHandle), Array)
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 69
+
+2023-12-10T04:05:12+00:00 CRITICAL Uncaught TypeError: curl_setopt_array(): The CURLOPT_HTTPHEADER option must have an array value in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:69
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(69): curl_setopt_array(Object(CurlHandle), Array)
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 69
+
+2023-12-10T04:08:08+00:00 CRITICAL Uncaught TypeError: curl_setopt_array(): The CURLOPT_HTTPHEADER option must have an array value in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:69
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(69): curl_setopt_array(Object(CurlHandle), Array)
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 69
+
+2023-12-10T15:38:31+00:00 CRITICAL Uncaught Error: Failed opening required '/home/u1425-qskksrlkjuvy/www/carefree.unbot.com/public_html/wp-includes/wp-core.php' (include_path='.:/usr/local/php80/pear') in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 4
+
+2023-12-10T15:47:15+00:00 CRITICAL Uncaught Error: Call to undefined function wp_initialize() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 5
+
+2023-12-10T15:51:30+00:00 CRITICAL Uncaught Error: Call to undefined function wp_initialize() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 6
+

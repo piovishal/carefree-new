@@ -1,0 +1,934 @@
+Type,SKU,Name,"Meta: _et_pb_old_content","In stock?","Regular price",Images,Parent,"Attribute 1 name","Attribute 1 value(s)","Attribute 1 visible","Attribute 1 global","Attribute 2 name","Attribute 2 value(s)","Attribute 2 visible","Attribute 2 global","Attribute 3 name","Attribute 3 value(s)","Attribute 3 visible","Attribute 3 global"
+variable,R001861---,"Inner Left Hand Endcap","",1,0,,,Color,"Black,Satin,White",1,0,,,,,,,,
+variation,R001861BLK,,,1,59.34,,"R001861---",Color,"Black",1,0,,,,,,,,
+variation,R001861SAT,,,1,59.34,,"R001861---",Color,"Satin",1,0,,,,,,,,
+variation,R001861WHT,,,1,59.34,,"R001861---",Color,"White",1,0,,,,,,,,
+variable,R001811--------,"Lead Rail","",1,0,,,Color,"Black,Satin,White",1,0,Size,"89.77,90.77,91.77,92.77,93.77,94.77,95.77,96.77,97.77,98.77,99.77,100.77,101.77,102.77,103.77,104.77,105.77,106.77,107.77,108.77,109.77,110.77,111.77,112.77,113.77,114.77,115.77,116.77,117.77,118.77,119.77,120.77,121.77,122.77,123.77,124.77,125.77,126.77,127.77,128.77,129.77,130.77,131.77,132.77,133.77,134.77,135.77,136.77,137.77,138.77,139.77,140.77,141.77,142.77,143.77,144.77,145.77,146.77,147.77,148.77,149.77,150.77,151.77,152.77,153.77,154.77,155.77,156.77,157.77,158.77,159.77,160.77,161.77,162.77,163.77,164.77,165.77,166.77,167.77,168.77,169.77,170.77,171.77,172.77,173.77,174.77,175.77,176.77,177.77,178.77,179.77,180.77,181.77,182.77,183.77,184.77,185.77,186.77,187.77,188.77,189.77,190.77",1,0,Variation,"LED-Inside,LED-Outside,No LED",1,0
+variation,R001811B-LI-096,,,0,304.39,,"R001811--------",Color,"Black",1,0,Size,"89.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-097,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"90.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-098,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"91.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-099,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"92.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-100,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"93.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-101,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"94.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-102,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"95.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-103,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"96.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-104,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"97.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-105,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"98.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-106,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"99.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-107,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"100.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-108,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"101.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-109,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"102.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-110,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"103.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-111,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"104.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-112,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"105.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-113,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"106.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-114,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"107.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-115,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"108.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-116,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"109.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-117,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"110.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-118,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"111.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-119,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"112.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-120,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"113.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-121,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"114.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-122,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"115.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-123,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"116.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-124,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"117.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-125,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"118.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-126,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"119.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-127,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"120.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-128,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"121.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-129,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"122.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-130,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"123.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-131,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"124.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-132,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"125.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-133,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"126.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-134,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"127.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-135,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"128.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-136,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"129.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-137,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"130.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-138,,,0,304.39,,"R001811--------",Color,"Black",1,0,Size,"131.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-139,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"132.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-140,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"133.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-141,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"134.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-142,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"135.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-143,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"136.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-144,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"137.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-145,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"138.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-146,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"139.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-147,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"140.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-148,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"141.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-149,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"142.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-150,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"143.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-151,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"144.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-152,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"145.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-153,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"146.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-154,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"147.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-155,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"148.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-156,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"149.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-157,,,0,304.39,,"R001811--------",Color,"Black",1,0,Size,"150.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-158,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"151.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-159,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"152.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-160,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"153.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-161,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"154.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-162,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"155.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-163,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"156.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-164,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"157.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-165,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"158.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-166,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"159.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-167,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"160.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-168,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"161.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-169,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"162.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-170,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"163.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-171,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"164.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-172,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"165.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-173,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"166.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-174,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"167.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-175,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"168.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-176,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"169.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-177,,,0,349.39,,"R001811--------",Color,"Black",1,0,Size,"170.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-178,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"171.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-179,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"172.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-180,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"173.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-181,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"174.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-182,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"175.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-183,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"176.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-184,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"177.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-185,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"178.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-186,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"179.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-187,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"180.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-188,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"181.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-189,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"182.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-190,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"183.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-191,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"184.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-192,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"185.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-193,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"186.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-194,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"187.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-195,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"188.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-196,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"189.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LI-197,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"190.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-096,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"89.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-097,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"90.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-098,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"91.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-099,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"92.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-100,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"93.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-101,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"94.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-102,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"95.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-103,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"96.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-104,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"97.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-105,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"98.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-106,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"99.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-107,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"100.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-108,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"101.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-109,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"102.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-110,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"103.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-111,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"104.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-112,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"105.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-113,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"106.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-114,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"107.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-115,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"108.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-116,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"109.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-117,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"110.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-118,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"111.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-119,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"112.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-120,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"113.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-121,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"114.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-122,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"115.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-123,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"116.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-124,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"117.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-125,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"118.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-126,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"119.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-127,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"120.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-128,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"121.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-129,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"122.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-130,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"123.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-131,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"124.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-132,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"125.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-133,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"126.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-134,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"127.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-135,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"128.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-136,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"129.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-137,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"130.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-138,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"131.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-139,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"132.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-140,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"133.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-141,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"134.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-142,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"135.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-143,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"136.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-144,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"137.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-145,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"138.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-146,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"139.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-147,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"140.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-148,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"141.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-149,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"142.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-150,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"143.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-151,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"144.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-152,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"145.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-153,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"146.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-154,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"147.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-155,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"148.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-156,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"149.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-157,,,0,349.39,,"R001811--------",Color,"Satin",1,0,Size,"150.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-158,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"151.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-159,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"152.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-160,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"153.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-161,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"154.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-162,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"155.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-163,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"156.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-164,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"157.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-165,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"158.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-166,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"159.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-167,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"160.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-168,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"161.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-169,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"162.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-170,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"163.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-171,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"164.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-172,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"165.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-173,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"166.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-174,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"167.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-175,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"168.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-176,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"169.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-177,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"170.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-178,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"171.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-179,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"172.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-180,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"173.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-181,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"174.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-182,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"175.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-183,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"176.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-184,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"177.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-185,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"178.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-186,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"179.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-187,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"180.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-188,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"181.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-189,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"182.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-190,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"183.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-191,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"184.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-192,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"185.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-193,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"186.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-194,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"187.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-195,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"188.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-196,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"189.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811S-LI-197,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"190.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-096,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"89.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-097,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"90.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-098,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"91.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-099,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"92.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-100,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"93.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-101,,,0,304.39,,"R001811--------",Color,"White",1,0,Size,"94.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-102,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"95.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-103,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"96.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-104,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"97.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-105,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"98.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-106,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"99.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-107,,,0,304.39,,"R001811--------",Color,"White",1,0,Size,"100.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-108,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"101.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-109,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"102.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-110,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"103.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-111,,,0,304.39,,"R001811--------",Color,"White",1,0,Size,"104.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-112,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"105.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-113,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"106.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-114,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"107.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-115,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"108.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-116,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"109.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-117,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"110.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-118,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"111.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-119,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"112.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-120,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"113.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-121,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"114.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-122,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"115.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-123,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"116.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-124,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"117.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-125,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"118.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-126,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"119.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-127,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"120.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-128,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"121.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-129,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"122.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-130,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"123.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-131,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"124.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-132,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"125.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-133,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"126.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-134,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"127.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-135,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"128.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-136,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"129.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-137,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"130.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-138,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"131.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-139,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"132.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-140,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"133.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-141,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"134.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-142,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"135.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-143,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"136.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-144,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"137.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-145,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"138.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-146,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"139.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-147,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"140.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-148,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"141.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-149,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"142.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-150,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"143.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-151,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"144.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-152,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"145.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-153,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"146.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-154,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"147.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-155,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"148.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-156,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"149.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-157,,,0,349.39,,"R001811--------",Color,"White",1,0,Size,"150.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-158,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"151.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-159,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"152.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-160,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"153.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-161,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"154.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-162,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"155.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-163,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"156.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-164,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"157.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-165,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"158.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-166,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"159.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-167,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"160.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-168,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"161.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-169,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"162.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-170,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"163.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-171,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"164.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-172,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"165.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-173,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"166.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-174,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"167.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-175,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"168.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-176,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"169.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-177,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"170.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-178,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"171.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-179,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"172.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-180,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"173.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-181,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"174.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-182,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"175.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-183,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"176.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-184,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"177.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-185,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"178.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-186,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"179.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-187,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"180.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-188,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"181.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-189,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"182.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-190,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"183.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-191,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"184.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-192,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"185.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-193,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"186.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-194,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"187.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-195,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"188.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-196,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"189.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811W-LI-197,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"190.77",1,0,Variation,"LED-Inside",1,0
+variation,R001811B-LO-096,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"89.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-097,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"90.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-098,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"91.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-099,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"92.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-100,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"93.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-101,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"94.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-102,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"95.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-103,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"96.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-104,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"97.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-105,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"98.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-106,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"99.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-107,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"100.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-108,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"101.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-109,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"102.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-110,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"103.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-111,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"104.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-112,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"105.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-113,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"106.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-114,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"107.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-115,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"108.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-116,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"109.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-117,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"110.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-118,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"111.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-119,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"112.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-120,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"113.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-121,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"114.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-122,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"115.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-123,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"116.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-124,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"117.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-125,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"118.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-126,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"119.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-127,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"120.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-128,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"121.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-129,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"122.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-130,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"123.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-131,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"124.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-132,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"125.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-133,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"126.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-134,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"127.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-135,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"128.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-136,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"129.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-137,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"130.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-138,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"131.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-139,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"132.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-140,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"133.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-141,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"134.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-142,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"135.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-143,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"136.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-144,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"137.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-145,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"138.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-146,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"139.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-147,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"140.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-148,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"141.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-149,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"142.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-150,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"143.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-151,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"144.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-152,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"145.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-153,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"146.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-154,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"147.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-155,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"148.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-156,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"149.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-157,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"150.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-158,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"151.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-159,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"152.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-160,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"153.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-161,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"154.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-162,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"155.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-163,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"156.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-164,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"157.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-165,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"158.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-166,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"159.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-167,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"160.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-168,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"161.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-169,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"162.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-170,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"163.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-171,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"164.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-172,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"165.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-173,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"166.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-174,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"167.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-175,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"168.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-176,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"169.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-177,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"170.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-178,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"171.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-179,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"172.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-180,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"173.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-181,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"174.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-182,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"175.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-183,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"176.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-184,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"177.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-185,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"178.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-186,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"179.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-187,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"180.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-188,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"181.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-189,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"182.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-190,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"183.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-191,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"184.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-192,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"185.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-193,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"186.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-194,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"187.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-195,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"188.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-196,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"189.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-LO-197,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"190.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-096,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"89.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-097,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"90.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-098,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"91.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-099,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"92.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-100,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"93.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-101,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"94.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-102,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"95.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-103,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"96.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-104,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"97.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-105,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"98.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-106,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"99.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-107,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"100.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-108,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"101.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-109,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"102.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-110,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"103.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-111,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"104.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-112,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"105.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-113,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"106.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-114,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"107.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-115,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"108.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-116,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"109.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-117,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"110.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-118,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"111.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-119,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"112.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-120,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"113.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-121,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"114.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-122,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"115.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-123,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"116.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-124,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"117.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-125,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"118.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-126,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"119.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-127,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"120.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-128,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"121.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-129,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"122.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-130,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"123.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-131,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"124.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-132,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"125.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-133,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"126.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-134,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"127.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-135,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"128.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-136,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"129.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-137,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"130.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-138,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"131.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-139,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"132.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-140,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"133.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-141,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"134.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-142,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"135.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-143,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"136.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-144,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"137.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-145,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"138.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-146,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"139.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-147,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"140.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-148,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"141.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-149,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"142.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-150,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"143.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-151,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"144.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-152,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"145.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-153,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"146.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-154,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"147.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-155,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"148.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-156,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"149.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-157,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"150.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-158,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"151.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-159,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"152.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-160,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"153.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-161,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"154.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-162,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"155.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-163,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"156.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-164,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"157.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-165,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"158.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-166,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"159.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-167,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"160.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-168,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"161.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-169,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"162.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-170,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"163.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-171,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"164.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-172,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"165.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-173,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"166.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-174,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"167.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-175,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"168.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-176,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"169.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-177,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"170.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-178,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"171.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-179,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"172.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-180,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"173.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-181,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"174.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-182,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"175.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-183,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"176.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-184,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"177.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-185,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"178.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-186,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"179.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-187,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"180.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-188,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"181.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-189,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"182.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-190,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"183.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-191,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"184.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-192,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"185.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-193,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"186.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-194,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"187.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-195,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"188.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-196,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"189.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811S-LO-197,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"190.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-096,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"89.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-097,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"90.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-098,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"91.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-099,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"92.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-100,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"93.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-101,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"94.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-102,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"95.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-103,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"96.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-104,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"97.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-105,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"98.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-106,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"99.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-107,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"100.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-108,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"101.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-109,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"102.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-110,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"103.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-111,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"104.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-112,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"105.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-113,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"106.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-114,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"107.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-115,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"108.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-116,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"109.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-117,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"110.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-118,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"111.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-119,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"112.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-120,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"113.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-121,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"114.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-122,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"115.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-123,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"116.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-124,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"117.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-125,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"118.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-126,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"119.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-127,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"120.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-128,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"121.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-129,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"122.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-130,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"123.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-131,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"124.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-132,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"125.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-133,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"126.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-134,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"127.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-135,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"128.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-136,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"129.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-137,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"130.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-138,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"131.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-139,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"132.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-140,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"133.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-141,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"134.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-142,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"135.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-143,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"136.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-144,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"137.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-145,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"138.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-146,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"139.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-147,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"140.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-148,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"141.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-149,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"142.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-150,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"143.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-151,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"144.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-152,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"145.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-153,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"146.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-154,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"147.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-155,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"148.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-156,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"149.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-157,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"150.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-158,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"151.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-159,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"152.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-160,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"153.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-161,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"154.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-162,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"155.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-163,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"156.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-164,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"157.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-165,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"158.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-166,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"159.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-167,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"160.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-168,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"161.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-169,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"162.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-170,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"163.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-171,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"164.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-172,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"165.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-173,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"166.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-174,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"167.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-175,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"168.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-176,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"169.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-177,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"170.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-178,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"171.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-179,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"172.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-180,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"173.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-181,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"174.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-182,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"175.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-183,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"176.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-184,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"177.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-185,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"178.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-186,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"179.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-187,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"180.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-188,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"181.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-189,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"182.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-190,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"183.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-191,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"184.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-192,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"185.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-193,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"186.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-194,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"187.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-195,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"188.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-196,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"189.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811W-LO-197,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"190.77",1,0,Variation,"LED-Outside",1,0
+variation,R001811B-XX-096,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"89.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-097,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"90.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-098,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"91.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-099,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"92.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-100,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"93.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-101,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"94.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-102,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"95.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-103,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"96.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-104,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"97.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-105,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"98.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-106,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"99.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-107,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"100.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-108,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"101.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-109,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"102.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-110,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"103.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-111,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"104.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-112,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"105.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-113,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"106.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-114,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"107.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-115,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"108.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-116,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"109.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-117,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"110.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-118,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"111.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-119,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"112.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-120,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"113.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-121,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"114.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-122,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"115.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-123,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"116.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-124,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"117.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-125,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"118.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-126,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"119.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-127,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"120.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-128,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"121.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-129,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"122.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-130,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"123.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-131,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"124.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-132,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"125.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-133,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"126.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-134,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"127.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-135,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"128.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-136,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"129.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-137,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"130.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-138,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"131.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-139,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"132.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-140,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"133.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-141,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"134.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-142,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"135.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-143,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"136.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-144,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"137.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-145,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"138.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-146,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"139.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-147,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"140.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-148,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"141.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-149,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"142.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-150,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"143.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-151,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"144.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-152,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"145.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-153,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"146.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-154,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"147.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-155,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"148.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-156,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"149.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-157,,,1,304.39,,"R001811--------",Color,"Black",1,0,Size,"150.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-158,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"151.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-159,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"152.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-160,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"153.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-161,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"154.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-162,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"155.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-163,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"156.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-164,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"157.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-165,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"158.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-166,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"159.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-167,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"160.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-168,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"161.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-169,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"162.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-170,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"163.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-171,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"164.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-172,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"165.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-173,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"166.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-174,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"167.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-175,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"168.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-176,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"169.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-177,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"170.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-178,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"171.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-179,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"172.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-180,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"173.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-181,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"174.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-182,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"175.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-183,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"176.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-184,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"177.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-185,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"178.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-186,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"179.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-187,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"180.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-188,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"181.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-189,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"182.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-190,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"183.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-191,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"184.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-192,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"185.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-193,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"186.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-194,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"187.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-195,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"188.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-196,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"189.77",1,0,Variation,"No LED",1,0
+variation,R001811B-XX-197,,,1,349.39,,"R001811--------",Color,"Black",1,0,Size,"190.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-096,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"89.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-097,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"90.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-098,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"91.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-099,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"92.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-100,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"93.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-101,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"94.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-102,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"95.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-103,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"96.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-104,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"97.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-105,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"98.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-106,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"99.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-107,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"100.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-108,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"101.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-109,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"102.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-110,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"103.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-111,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"104.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-112,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"105.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-113,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"106.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-114,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"107.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-115,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"108.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-116,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"109.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-117,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"110.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-118,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"111.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-119,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"112.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-120,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"113.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-121,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"114.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-122,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"115.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-123,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"116.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-124,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"117.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-125,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"118.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-126,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"119.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-127,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"120.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-128,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"121.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-129,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"122.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-130,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"123.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-131,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"124.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-132,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"125.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-133,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"126.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-134,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"127.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-135,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"128.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-136,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"129.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-137,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"130.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-138,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"131.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-139,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"132.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-140,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"133.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-141,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"134.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-142,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"135.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-143,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"136.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-144,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"137.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-145,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"138.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-146,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"139.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-147,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"140.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-148,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"141.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-149,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"142.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-150,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"143.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-151,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"144.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-152,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"145.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-153,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"146.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-154,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"147.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-155,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"148.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-156,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"149.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-157,,,1,304.39,,"R001811--------",Color,"Satin",1,0,Size,"150.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-158,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"151.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-159,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"152.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-160,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"153.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-161,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"154.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-162,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"155.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-163,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"156.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-164,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"157.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-165,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"158.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-166,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"159.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-167,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"160.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-168,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"161.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-169,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"162.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-170,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"163.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-171,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"164.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-172,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"165.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-173,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"166.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-174,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"167.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-175,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"168.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-176,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"169.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-177,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"170.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-178,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"171.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-179,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"172.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-180,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"173.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-181,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"174.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-182,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"175.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-183,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"176.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-184,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"177.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-185,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"178.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-186,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"179.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-187,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"180.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-188,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"181.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-189,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"182.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-190,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"183.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-191,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"184.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-192,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"185.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-193,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"186.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-194,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"187.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-195,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"188.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-196,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"189.77",1,0,Variation,"No LED",1,0
+variation,R001811S-XX-197,,,1,349.39,,"R001811--------",Color,"Satin",1,0,Size,"190.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-096,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"89.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-097,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"90.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-098,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"91.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-099,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"92.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-100,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"93.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-101,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"94.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-102,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"95.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-103,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"96.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-104,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"97.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-105,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"98.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-106,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"99.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-107,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"100.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-108,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"101.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-109,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"102.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-110,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"103.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-111,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"104.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-112,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"105.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-113,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"106.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-114,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"107.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-115,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"108.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-116,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"109.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-117,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"110.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-118,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"111.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-119,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"112.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-120,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"113.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-121,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"114.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-122,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"115.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-123,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"116.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-124,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"117.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-125,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"118.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-126,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"119.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-127,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"120.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-128,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"121.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-129,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"122.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-130,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"123.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-131,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"124.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-132,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"125.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-133,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"126.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-134,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"127.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-135,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"128.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-136,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"129.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-137,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"130.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-138,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"131.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-139,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"132.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-140,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"133.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-141,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"134.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-142,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"135.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-143,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"136.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-144,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"137.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-145,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"138.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-146,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"139.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-147,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"140.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-148,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"141.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-149,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"142.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-150,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"143.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-151,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"144.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-152,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"145.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-153,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"146.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-154,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"147.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-155,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"148.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-156,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"149.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-157,,,1,304.39,,"R001811--------",Color,"White",1,0,Size,"150.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-158,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"151.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-159,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"152.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-160,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"153.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-161,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"154.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-162,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"155.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-163,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"156.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-164,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"157.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-165,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"158.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-166,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"159.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-167,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"160.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-168,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"161.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-169,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"162.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-170,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"163.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-171,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"164.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-172,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"165.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-173,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"166.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-174,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"167.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-175,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"168.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-176,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"169.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-177,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"170.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-178,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"171.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-179,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"172.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-180,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"173.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-181,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"174.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-182,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"175.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-183,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"176.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-184,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"177.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-185,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"178.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-186,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"179.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-187,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"180.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-188,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"181.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-189,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"182.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-190,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"183.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-191,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"184.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-192,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"185.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-193,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"186.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-194,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"187.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-195,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"188.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-196,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"189.77",1,0,Variation,"No LED",1,0
+variation,R001811W-XX-197,,,1,349.39,,"R001811--------",Color,"White",1,0,Size,"190.77",1,0,Variation,"No LED",1,0
+simple,R001865,"Left Hand Case Connector","Attaching hardware not included with spring arm assemblies. Order item 16.",1,137.83,,,,,,,,,,,,,,
+simple,R001864,"Right Hand Case Connector","",1,137.83,,,,,,,,,,,,,,
+simple,R001678,"Left Hand Lead Rail Pivot Assembly","Attaching hardware not included with <br>spring arm assemblies. Order item 16.",1,34.34,https://www.carefreeofcolorado.com/images/photos/R001678.jpg,,,,,,,,,,,,,
+simple,R001680,"Right Hand Lead Rail Pivot Assembly","Attaching hardware not included with <br>spring arm assemblies. Order item 16.",1,34.34,https://www.carefreeofcolorado.com/images/photos/R001680.jpg,,,,,,,,,,,,,
+simple,R019867-001,"Bracket Kit, 3m-4m","Bracket kit 3m-4m contains 3 brackets and screws. Bracket Kit for 4.5m-5m contains 4 brackets. Bracket kits do not include awning mounting screws; order item 27.",1,212.3,,,,,,,,,,,,,,
+simple,R019867-002,"Bracket Kit, 4.5m-5m","Bracket kit 3m-4m contains 3 brackets and screws. Bracket Kit for 4.5m-5m contains 4 brackets. Bracket kits do not include awning mounting screws; order item 27.",1,212.3,,,,,,,,,,,,,,
+simple,R001969,"Arm Bumper","",1,8.35,,,,,,,,,,,,,,
+variable,019868-00-,"Awning Mount Screw Pack","Choose the size that matches the bracket kit.",1,0,,,,,,,Size,"<=4.0M,>=4.5M",1,0,,,,
+variation,019868-001,,,1,58.15,,"019868-00-",,,,,Size,"<=4.0M",1,0,,,,
+variation,019868-002,,,1,72.75,,"019868-00-",,,,,Size,">=4.5M",1,0,,,,

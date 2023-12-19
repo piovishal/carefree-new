@@ -1,0 +1,48 @@
+2023-12-11T06:44:49+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Session_Handler::get_customer_session_token() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:127
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(85): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 127
+
+2023-12-11T07:53:55+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Session_Handler::get_customer_session_token() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:128
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 128
+
+2023-12-11T12:54:58+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_cart() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:141
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 141
+
+2023-12-11T12:57:53+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_cart() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:141
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 141
+
+2023-12-11T12:58:15+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_cart() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:141
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 141
+
+2023-12-11T12:59:53+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_cart() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:141
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 141
+
+2023-12-11T13:00:32+00:00 CRITICAL Uncaught Error: Call to undefined function wc_clear_cart_cookies() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:146
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 146
+
+2023-12-11T13:03:31+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::load_cart() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:147
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 147
+

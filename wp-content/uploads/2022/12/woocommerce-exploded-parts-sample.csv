@@ -1,0 +1,10 @@
+Type,SKU,Name,"Meta: _et_pb_old_content","In stock?","Regular price",Images,Parent,"Attribute 1 name","Attribute 1 value(s)","Attribute 1 visible","Attribute 1 global","Attribute 2 name","Attribute 2 value(s)","Attribute 2 visible","Attribute 2 global","Attribute 3 name","Attribute 3 value(s)","Attribute 3 visible","Attribute 3 global"
+variable,Endcap-Mtg-Tube-LH,"Left Hand Endcap and Mounting Tube Assembly","For Endcap and Mounting Tube replacements for standard length awnnings (42"" - 204""), order complete arm kit.",1,0,,,Color,"Black,White",1,0,Size,"42""-204"",205""-336"",>336""",1,0,Variation,"Short Bracket,Tall Bracket,n/a",1,0
+variation,KGJVS15,,,1,116.6,,"Endcap-Mtg-Tube-LH",Color,"Black",1,0,Size,"42""-204""",1,0,Variation,"Short Bracket",1,0
+variation,KG25S15,,,1,116.6,,"Endcap-Mtg-Tube-LH",Color,"White",1,0,Size,"42""-204""",1,0,Variation,"Short Bracket",1,0
+variation,KGJVT15,,,1,116.6,,"Endcap-Mtg-Tube-LH",Color,"Black",1,0,Size,"42""-204""",1,0,Variation,"Tall Bracket",1,0
+variation,KG25T15,,,1,116.6,,"Endcap-Mtg-Tube-LH",Color,"White",1,0,Size,"42""-204""",1,0,Variation,"Tall Bracket",1,0
+variation,R001905BLK,,,1,188.55,,"Endcap-Mtg-Tube-LH",Color,"Black",1,0,Size,"205""-336""",1,0,Variation,"n/a",1,0
+variation,R001958BLK,,,1,309.09,,"Endcap-Mtg-Tube-LH",Color,"Black",1,0,Size,">336""",1,0,Variation,"n/a",1,0
+variation,R001905WHT,,,1,188.55,,"Endcap-Mtg-Tube-LH",Color,"White",1,0,Size,"205""-336""",1,0,Variation,"n/a",1,0
+variation,R001958WHT,,,0,0,,"Endcap-Mtg-Tube-LH",Color,"White",1,0,Size,">336""",1,0,Variation,"n/a",1,0

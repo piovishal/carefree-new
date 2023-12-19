@@ -1,0 +1,328 @@
+2023-12-14T12:31:57+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-cron.php(46): require_once('/home/customer/...')
+#7 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:31:58+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-admin/admin-ajax.php(22): require_once('/home/customer/...')
+#7 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:32:11+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-admin/admin-ajax.php(22): require_once('/home/customer/...')
+#7 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:32:16+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-admin/admin.php(34): require_once('/home/customer/...')
+#7 /home/customer/www/carefree.unbot.com/public_html/wp-admin/edit.php(10): require_once('/home/customer/...')
+#8 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:33:04+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-admin/admin.php(34): require_once('/home/customer/...')
+#7 /home/customer/www/carefree.unbot.com/public_html/wp-admin/edit.php(10): require_once('/home/customer/...')
+#8 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:33:05+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-blog-header.php(13): require_once('/home/customer/...')
+#7 /home/customer/www/carefree.unbot.com/public_html/index.php(17): require('/home/customer/...')
+#8 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:34:10+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-admin/admin.php(34): require_once('/home/customer/...')
+#7 /home/customer/www/carefree.unbot.com/public_html/wp-admin/post.php(12): require_once('/home/customer/...')
+#8 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:34:11+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-blog-header.php(13): require_once('/home/customer/...')
+#7 /home/customer/www/carefree.unbot.com/public_html/index.php(17): require('/home/customer/...')
+#8 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:34:11+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-admin/admin-ajax.php(22): require_once('/home/customer/...')
+#7 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:34:12+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-admin/admin-ajax.php(22): require_once('/home/customer/...')
+#7 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:36:14+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-admin/admin-ajax.php(22): require_once('/home/customer/...')
+#7 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:38:15+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-admin/admin-ajax.php(22): require_once('/home/customer/...')
+#7 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:40:16+00:00 CRITICAL Uncaught Exception: Invalid order. in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:137
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php(1835): WC_Abstract_Order->__construct(86357)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-admin/admin-ajax.php(22): require_once('/home/customer/...')
+#7 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 137
+
+2023-12-14T12:46:58+00:00 CRITICAL Uncaught Error: Call to a member function add_order_note() on bool in /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php:1843
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include()
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-admin/admin.php(34): require_once('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-admin/post.php(12): require_once('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php on line 1843
+
+2023-12-14T12:46:58+00:00 CRITICAL Uncaught Error: Call to a member function add_order_note() on bool in /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php:1843
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include()
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/carefree.unbot.com/public_html/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php on line 1843
+
+2023-12-14T12:50:41+00:00 CRITICAL Uncaught Error: Call to a member function add_order_note() on bool in /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php:1843
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-settings.php(611): include()
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-config.php(135): require_once('/home/customer/...')
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-cron.php(46): require_once('/home/customer/...')
+#4 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php on line 1843
+
+2023-12-14T14:48:45+00:00 CRITICAL Uncaught Error: Call to a member function get_product_id() on null in /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php:1851
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-includes/class-wp-hook.php(324): {closure}(86361)
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/templates/checkout/thankyou.php(82): do_action('woocommerce_tha...', 86361)
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(324): wc_get_template('checkout/thanky...', Array)
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(86361)
+#7 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/module/woocommerce/CheckoutPaymentInfo.php(606): WC_Shortcode_Checkout::output(Array)
+#8 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/module/woocommerce/CheckoutPaymentInfo.php(663): ET_Builder_Module_Woocommerce_Checkout_Payment_Info::get_checkout_payment_info(Array)
+#9 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Module_Woocommerce_Checkout_Payment_Info->render(Array, '', 'et_pb_wc_checko...', '', '', '', '', '')
+#10 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '', 'et_pb_wc_checko...')
+#11 [internal function]: do_shortcode_tag(Array)
+#12 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_wc_check...')
+#13 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3784): do_shortcode('[et_pb_wc_check...')
+#14 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Column->render(Array, '[et_pb_wc_check...', 'et_pb_column', '', '', '', '', '')
+#15 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2747): ET_Builder_Element->_render(Array, '[et_pb_wc_check...', 'et_pb_column')
+#16 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '[et_pb_wc_check...', 'et_pb_column')
+#17 [internal function]: do_shortcode_tag(Array)
+#18 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_column t...')
+#19 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(2274): do_shortcode('[et_pb_column t...')
+#20 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Row->render(Array, '[et_pb_column t...', 'et_pb_row', '', '', '', '', '')
+#21 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2747): ET_Builder_Element->_render(Array, '[et_pb_column t...', 'et_pb_row')
+#22 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '[et_pb_column t...', 'et_pb_row')
+#23 [internal function]: do_shortcode_tag(Array)
+#24 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_row modu...')
+#25 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(1606): do_shortcode('[et_pb_row modu...')
+#26 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Section->render(Array, '[et_pb_row modu...', 'et_pb_section', '', '', '', '', '')
+#27 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2747): ET_Builder_Element->_render(Array, '[et_pb_row modu...', 'et_pb_section')
+#28 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '[et_pb_row modu...', 'et_pb_section')
+#29 [internal function]: do_shortcode_tag(Array)
+#30 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(dateto...', 'do_shortcode_ta...', '<div class="et-...')
+#31 /home/customer/www/carefree.unbot.com/public_html/wp-includes/class-wp-hook.php(324): do_shortcode('<div class="et-...')
+#32 /home/customer/www/carefree.unbot.com/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<div class="et-...', Array)
+#33 /home/customer/www/carefree.unbot.com/public_html/wp-includes/post-template.php(256): apply_filters('the_content', '[et_pb_section ...')
+#34 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php(658): the_content()
+#35 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/module/type/PostContent.php(504): et_theme_builder_frontend_render_post_content()
+#36 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Module_Type_PostContent->render(Array, '', 'et_pb_post_cont...', '', '', '', '', '')
+#37 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '', 'et_pb_post_cont...')
+#38 [internal function]: do_shortcode_tag(Array)
+#39 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_post_con...')
+#40 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3784): do_shortcode('[et_pb_post_con...')
+#41 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Column->render(Array, '[et_pb_post_con...', 'et_pb_column', '', '', '', '', '')
+#42 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '[et_pb_post_con...', 'et_pb_column')
+#43 [internal function]: do_shortcode_tag(Array)
+#44 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_column t...')
+#45 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(2274): do_shortcode('[et_pb_column t...')
+#46 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Row->render(Array, '[et_pb_column t...', 'et_pb_row', '', '', '', '', '')
+#47 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '[et_pb_column t...', 'et_pb_row')
+#48 [internal function]: do_shortcode_tag(Array)
+#49 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_row _bui...')
+#50 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(1606): do_shortcode('[et_pb_row _bui...')
+#51 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Section->render(Array, '[et_pb_row _bui...', 'et_pb_section', '', '', '', '', '')
+#52 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '[et_pb_row _bui...', 'et_pb_section')
+#53 [internal function]: do_shortcode_tag(Array)
+#54 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '<div class="et-...')
+#55 /home/customer/www/carefree.unbot.com/public_html/wp-includes/class-wp-hook.php(324): do_shortcode('<div class="et-...')
+#56 /home/customer/www/carefree.unbot.com/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<div class="et-...', Array)
+#57 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/core.php(26): apply_filters('et_builder_rend...', '[et_pb_section ...')
+#58 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php(347): et_builder_render_layout('[et_pb_section ...')
+#59 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php(506): et_theme_builder_frontend_render_layout('et_body_layout', 84506)
+#60 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend-body-template.php(10): et_theme_builder_frontend_render_body(84506, true, 84502)
+#61 /home/customer/www/carefree.unbot.com/public_html/wp-includes/template-loader.php(106): include('/home/customer/...')
+#62 /home/customer/www/carefree.unbot.com/public_html/wp-blog-header.php(19): require_once('/home/customer/...')
+#63 /home/customer/www/carefree.unbot.com/public_html/index.php(17): require('/home/customer/...')
+#64 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php on line 1851
+
+2023-12-14T16:50:21+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_the_content() in /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php:1876
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/wp-includes/class-wp-hook.php(324): {closure}(86359)
+#1 /home/customer/www/carefree.unbot.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/carefree.unbot.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/templates/checkout/thankyou.php(82): do_action('woocommerce_tha...', 86359)
+#4 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/customer/...')
+#5 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(324): wc_get_template('checkout/thanky...', Array)
+#6 /home/customer/www/carefree.unbot.com/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(86359)
+#7 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/module/woocommerce/CheckoutPaymentInfo.php(606): WC_Shortcode_Checkout::output(Array)
+#8 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/module/woocommerce/CheckoutPaymentInfo.php(663): ET_Builder_Module_Woocommerce_Checkout_Payment_Info::get_checkout_payment_info(Array)
+#9 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Module_Woocommerce_Checkout_Payment_Info->render(Array, '', 'et_pb_wc_checko...', '', '', '', '', '')
+#10 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '', 'et_pb_wc_checko...')
+#11 [internal function]: do_shortcode_tag(Array)
+#12 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_wc_check...')
+#13 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3784): do_shortcode('[et_pb_wc_check...')
+#14 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Column->render(Array, '[et_pb_wc_check...', 'et_pb_column', '', '', '', '', '')
+#15 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2747): ET_Builder_Element->_render(Array, '[et_pb_wc_check...', 'et_pb_column')
+#16 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '[et_pb_wc_check...', 'et_pb_column')
+#17 [internal function]: do_shortcode_tag(Array)
+#18 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_column t...')
+#19 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(2274): do_shortcode('[et_pb_column t...')
+#20 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Row->render(Array, '[et_pb_column t...', 'et_pb_row', '', '', '', '', '')
+#21 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2747): ET_Builder_Element->_render(Array, '[et_pb_column t...', 'et_pb_row')
+#22 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '[et_pb_column t...', 'et_pb_row')
+#23 [internal function]: do_shortcode_tag(Array)
+#24 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_row modu...')
+#25 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(1606): do_shortcode('[et_pb_row modu...')
+#26 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Section->render(Array, '[et_pb_row modu...', 'et_pb_section', '', '', '', '', '')
+#27 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2747): ET_Builder_Element->_render(Array, '[et_pb_row modu...', 'et_pb_section')
+#28 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '[et_pb_row modu...', 'et_pb_section')
+#29 [internal function]: do_shortcode_tag(Array)
+#30 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(dateto...', 'do_shortcode_ta...', '<div class="et-...')
+#31 /home/customer/www/carefree.unbot.com/public_html/wp-includes/class-wp-hook.php(324): do_shortcode('<div class="et-...')
+#32 /home/customer/www/carefree.unbot.com/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<div class="et-...', Array)
+#33 /home/customer/www/carefree.unbot.com/public_html/wp-includes/post-template.php(256): apply_filters('the_content', '[et_pb_section ...')
+#34 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php(658): the_content()
+#35 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/module/type/PostContent.php(504): et_theme_builder_frontend_render_post_content()
+#36 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Module_Type_PostContent->render(Array, '', 'et_pb_post_cont...', '', '', '', '', '')
+#37 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '', 'et_pb_post_cont...')
+#38 [internal function]: do_shortcode_tag(Array)
+#39 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_post_con...')
+#40 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3784): do_shortcode('[et_pb_post_con...')
+#41 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Column->render(Array, '[et_pb_post_con...', 'et_pb_column', '', '', '', '', '')
+#42 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '[et_pb_post_con...', 'et_pb_column')
+#43 [internal function]: do_shortcode_tag(Array)
+#44 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_column t...')
+#45 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(2274): do_shortcode('[et_pb_column t...')
+#46 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Row->render(Array, '[et_pb_column t...', 'et_pb_row', '', '', '', '', '')
+#47 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '[et_pb_column t...', 'et_pb_row')
+#48 [internal function]: do_shortcode_tag(Array)
+#49 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_row _bui...')
+#50 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(1606): do_shortcode('[et_pb_row _bui...')
+#51 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(3331): ET_Builder_Section->render(Array, '[et_pb_row _bui...', 'et_pb_section', '', '', '', '', '')
+#52 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element->_render(Array, '[et_pb_row _bui...', 'et_pb_section')
+#53 [internal function]: do_shortcode_tag(Array)
+#54 /home/customer/www/carefree.unbot.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '<div class="et-...')
+#55 /home/customer/www/carefree.unbot.com/public_html/wp-includes/class-wp-hook.php(324): do_shortcode('<div class="et-...')
+#56 /home/customer/www/carefree.unbot.com/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<div class="et-...', Array)
+#57 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/core.php(26): apply_filters('et_builder_rend...', '[et_pb_section ...')
+#58 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php(347): et_builder_render_layout('[et_pb_section ...')
+#59 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php(506): et_theme_builder_frontend_render_layout('et_body_layout', 84506)
+#60 /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend-body-template.php(10): et_theme_builder_frontend_render_body(84506, true, 84502)
+#61 /home/customer/www/carefree.unbot.com/public_html/wp-includes/template-loader.php(106): include('/home/customer/...')
+#62 /home/customer/www/carefree.unbot.com/public_html/wp-blog-header.php(19): require_once('/home/customer/...')
+#63 /home/customer/www/carefree.unbot.com/public_html/index.php(17): require('/home/customer/...')
+#64 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/wp-content/themes/carefree-of-colorado-divi-child-theme/functions.php on line 1876
+

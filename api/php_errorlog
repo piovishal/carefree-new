@@ -1,0 +1,232 @@
+[08-Dec-2023 12:20:02 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 4
+[08-Dec-2023 16:03:56 UTC] PHP Warning:  Undefined variable $filter in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 92
+[08-Dec-2023 16:03:56 UTC] PHP Warning:  Undefined variable $cookieJar in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 100
+[10-Dec-2023 02:21:11 UTC] PHP Warning:  Attempt to read property "access_token" on string in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 46
+[10-Dec-2023 02:21:46 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 46
+[10-Dec-2023 02:30:13 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 51
+[10-Dec-2023 02:30:17 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 51
+[10-Dec-2023 03:08:42 UTC] PHP Warning:  Undefined array key "message" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 48
+[10-Dec-2023 04:00:46 UTC] PHP Fatal error:  Uncaught TypeError: curl_setopt_array(): The CURLOPT_HTTPHEADER option must have an array value in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:69
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(69): curl_setopt_array(Object(CurlHandle), Array)
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 69
+[10-Dec-2023 04:05:12 UTC] PHP Fatal error:  Uncaught TypeError: curl_setopt_array(): The CURLOPT_HTTPHEADER option must have an array value in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:69
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(69): curl_setopt_array(Object(CurlHandle), Array)
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 69
+[10-Dec-2023 04:08:08 UTC] PHP Fatal error:  Uncaught TypeError: curl_setopt_array(): The CURLOPT_HTTPHEADER option must have an array value in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:69
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(69): curl_setopt_array(Object(CurlHandle), Array)
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 69
+[10-Dec-2023 14:46:37 UTC] PHP Warning:  Undefined array key "inputs" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 78
+[10-Dec-2023 15:38:31 UTC] PHP Warning:  require_once(/home/u1425-qskksrlkjuvy/www/carefree.unbot.com/public_html/wp-includes/wp-core.php): Failed to open stream: No such file or directory in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 4
+[10-Dec-2023 15:38:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u1425-qskksrlkjuvy/www/carefree.unbot.com/public_html/wp-includes/wp-core.php' (include_path='.:/usr/local/php80/pear') in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 4
+[10-Dec-2023 15:47:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_initialize() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 5
+[10-Dec-2023 15:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_initialize() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 6
+[10-Dec-2023 15:58:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 30
+[10-Dec-2023 15:58:59 UTC] PHP Warning:  Undefined array key "inputs" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 119
+[10-Dec-2023 15:58:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 119
+[10-Dec-2023 15:59:45 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 15:59:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 15:59:45 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 15:59:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 15:59:45 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 15:59:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:01:19 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:01:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:01:19 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:01:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:01:19 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:01:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:01:54 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 114
+[10-Dec-2023 16:01:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 114
+[10-Dec-2023 16:01:54 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 114
+[10-Dec-2023 16:01:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 114
+[10-Dec-2023 16:01:54 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 114
+[10-Dec-2023 16:01:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 114
+[10-Dec-2023 16:01:54 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:01:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:01:54 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:01:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:01:54 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:01:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:02:57 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 114
+[10-Dec-2023 16:02:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 114
+[10-Dec-2023 16:02:57 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 114
+[10-Dec-2023 16:02:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 114
+[10-Dec-2023 16:02:57 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 114
+[10-Dec-2023 16:02:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 114
+[10-Dec-2023 16:02:57 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:02:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:02:57 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:02:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:02:57 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:02:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:03:03 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:03:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:03:03 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:03:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:03:03 UTC] PHP Warning:  Undefined array key 0 in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[10-Dec-2023 16:03:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 120
+[11-Dec-2023 06:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Session_Handler::get_customer_session_token() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:127
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(85): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 127
+[11-Dec-2023 07:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Session_Handler::get_customer_session_token() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:128
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 128
+[11-Dec-2023 12:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_cart() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:141
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 141
+[11-Dec-2023 12:57:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_cart() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:141
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 141
+[11-Dec-2023 12:58:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_cart() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:141
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 141
+[11-Dec-2023 12:59:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_cart() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:141
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 141
+[11-Dec-2023 13:00:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_clear_cart_cookies() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:146
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 146
+[11-Dec-2023 13:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Cart::load_cart() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:147
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 147
+[12-Dec-2023 06:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Cart::load_cart() in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:147
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 147
+[12-Dec-2023 13:47:28 UTC] PHP Fatal error:  Uncaught Error: Class "WC_CP_Product" not found in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:143
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 143
+[12-Dec-2023 13:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_data_hash() on null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:143
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(86): customProductsAdd(Array, '12')
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 143
+[13-Dec-2023 10:48:06 UTC] PHP Warning:  Undefined variable $_SESSION in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 5
+[13-Dec-2023 11:03:54 UTC] PHP Parse error:  syntax error, unexpected variable "$sessionID" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 6
+[13-Dec-2023 11:05:33 UTC] PHP Parse error:  syntax error, unexpected variable "$sessionID" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 6
+[13-Dec-2023 11:05:53 UTC] PHP Warning:  Undefined variable $userID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 70
+[13-Dec-2023 11:06:37 UTC] PHP Warning:  Undefined array key "config_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 13
+[13-Dec-2023 11:06:37 UTC] PHP Warning:  Undefined variable $userID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 70
+[13-Dec-2023 11:06:37 UTC] PHP Fatal error:  Uncaught TypeError: customProductsAdd(): Argument #1 ($productArray) must be of type array, null given, called in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 70 and defined in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:72
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(70): customProductsAdd(NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 72
+[13-Dec-2023 11:09:55 UTC] PHP Warning:  Undefined variable $userID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 70
+[13-Dec-2023 11:11:56 UTC] PHP Warning:  Undefined array key "cmk_configure_session_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 7
+[13-Dec-2023 11:13:27 UTC] PHP Warning:  Undefined array key "cmk_configure_session_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 7
+[13-Dec-2023 11:14:42 UTC] PHP Warning:  Undefined array key "I_SESSION_ID" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 8
+[13-Dec-2023 11:15:14 UTC] PHP Warning:  Undefined array key "I_SESSION_ID" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 8
+[13-Dec-2023 11:15:35 UTC] PHP Warning:  Undefined array key "config_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 13
+[13-Dec-2023 11:15:35 UTC] PHP Fatal error:  Uncaught TypeError: customProductsAdd(): Argument #1 ($productArray) must be of type array, null given, called in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 70 and defined in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:72
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(70): customProductsAdd(NULL)
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 72
+[13-Dec-2023 11:15:39 UTC] PHP Warning:  Undefined array key "config_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 13
+[13-Dec-2023 11:15:39 UTC] PHP Fatal error:  Uncaught TypeError: customProductsAdd(): Argument #1 ($productArray) must be of type array, null given, called in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 70 and defined in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:72
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(70): customProductsAdd(NULL)
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 72
+[13-Dec-2023 11:15:42 UTC] PHP Warning:  Undefined array key "config_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 13
+[13-Dec-2023 11:15:42 UTC] PHP Fatal error:  Uncaught TypeError: customProductsAdd(): Argument #1 ($productArray) must be of type array, null given, called in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 70 and defined in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:72
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(70): customProductsAdd(NULL)
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 72
+[13-Dec-2023 11:48:39 UTC] PHP Warning:  Undefined array key "config_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 13
+[13-Dec-2023 11:48:40 UTC] PHP Fatal error:  Uncaught TypeError: customProductsAdd(): Argument #1 ($productArray) must be of type array, null given, called in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 70 and defined in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:72
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(70): customProductsAdd(NULL)
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 72
+[13-Dec-2023 11:48:41 UTC] PHP Warning:  Undefined array key "config_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 13
+[13-Dec-2023 11:48:41 UTC] PHP Fatal error:  Uncaught TypeError: customProductsAdd(): Argument #1 ($productArray) must be of type array, null given, called in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 70 and defined in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:72
+Stack trace:
+#0 /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php(70): customProductsAdd(NULL)
+#1 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 72
+[13-Dec-2023 11:56:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 4
+[13-Dec-2023 11:56:24 UTC] PHP Warning:  Undefined variable $_SESSION in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 9
+[13-Dec-2023 11:56:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 9
+[13-Dec-2023 11:57:04 UTC] PHP Warning:  Undefined array key "cmk_configure_session_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 8
+[13-Dec-2023 11:58:58 UTC] PHP Warning:  Undefined array key "cmk_configure_session_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 8
+[13-Dec-2023 12:06:12 UTC] PHP Warning:  Undefined array key "cmk_configure_session_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 8
+[13-Dec-2023 12:06:48 UTC] PHP Warning:  Undefined array key "cmk_configure_session_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 8
+[13-Dec-2023 12:07:53 UTC] PHP Warning:  Undefined array key "cmk_configure_session_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 8
+[13-Dec-2023 12:10:19 UTC] PHP Warning:  Undefined variable $_SESSION in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 4
+[13-Dec-2023 12:15:29 UTC] PHP Warning:  Undefined variable $_SESSION in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 4
+[13-Dec-2023 12:25:45 UTC] PHP Warning:  Undefined array key "cmk_configure_session_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 7
+[13-Dec-2023 12:26:41 UTC] PHP Warning:  Undefined array key "cmk_configure_session_id" in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 8
+[13-Dec-2023 12:38:39 UTC] PHP Warning:  Undefined variable $sessionID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 112
+[13-Dec-2023 12:38:39 UTC] PHP Warning:  Undefined variable $configID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 112
+[13-Dec-2023 12:39:40 UTC] PHP Warning:  Undefined variable $sessionID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 112
+[13-Dec-2023 12:39:40 UTC] PHP Warning:  Undefined variable $configID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 112
+[13-Dec-2023 12:41:47 UTC] PHP Warning:  Undefined variable $sessionID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 112
+[13-Dec-2023 12:41:47 UTC] PHP Warning:  Undefined variable $configID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 112
+[13-Dec-2023 12:46:23 UTC] PHP Warning:  Undefined variable $sessionID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:46:23 UTC] PHP Warning:  Undefined variable $configID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:47:07 UTC] PHP Warning:  Undefined variable $sessionID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:47:07 UTC] PHP Warning:  Undefined variable $configID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:47:08 UTC] PHP Warning:  Undefined variable $sessionID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:47:08 UTC] PHP Warning:  Undefined variable $configID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:47:25 UTC] PHP Warning:  Undefined variable $sessionID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:47:25 UTC] PHP Warning:  Undefined variable $configID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:48:06 UTC] PHP Warning:  Undefined variable $sessionID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:48:06 UTC] PHP Warning:  Undefined variable $configID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:48:38 UTC] PHP Warning:  Undefined variable $sessionID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:48:38 UTC] PHP Warning:  Undefined variable $configID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:57:28 UTC] PHP Warning:  Undefined variable $sessionID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:57:28 UTC] PHP Warning:  Undefined variable $configID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:58:46 UTC] PHP Warning:  Undefined variable $sessionID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106
+[13-Dec-2023 12:58:46 UTC] PHP Warning:  Undefined variable $configID in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 106

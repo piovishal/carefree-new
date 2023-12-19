@@ -1,0 +1,5 @@
+2023-12-08T12:20:02+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/carefree.unbot.com/public_html/api/receive-config.php on line 4
+
