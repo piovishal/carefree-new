@@ -1029,7 +1029,7 @@ if(is_user_logged_in()){
     }
     add_action( 'woocommerce_checkout_update_order_meta', 'save_custom_fields_values' );
 }
- /* include work disrtibutor list owrk for checkout page and my account page */
+ /* include work disrtibutor list work for checkout page and my account page */
  include "function-includes/distributor-list.php";
  /* include toolbar section */
  include "function-includes/toolbar.php";
@@ -1114,7 +1114,7 @@ function add_preferred_distributors_endpoint() {
 }
 add_action( 'init', 'add_preferred_distributors_endpoint' );
 
-/* fetch year and use in year dropdown onnew warranty claim form  */
+/* fetch year and use in year dropdown onwer warranty claim form  */
 function years_fetch ($values, $options, $args) {
     if ( in_array('WI-purchase-year', $options) ){
          $years = [];
@@ -1776,18 +1776,12 @@ function cmk_additional_button() {
         session_start();
     }
 	 
-	$sessionID = session_id();
+	$sessionID = session_id().'--'.get_field('discount_coupon_details', $productID);
 	$_SESSION['session_id'] = $sessionID; 
      // Store the session ID in the WordPress session
     $_SESSION['cmk_configure_session_id'] = $sessionID;
 
-     $wpdb->insert(
-        $tableName,
-        array(
-            'user_id' => get_current_user_id(),
-            'session_id' => $sessionID,
-        )
-    );
+     
      $configureLink = get_field("configure_link", $productID);
      if(!empty($configureLink)){
          $optiontree = get_option('option_tree');
@@ -1829,6 +1823,9 @@ function ao_check_cookie() {
 		session_start();
 		if($_SESSION['cmk_configure_session_id'] == $_GET['sid']){
 			WC()->cart->add_to_cart($_GET['pid'], 1);
+			$exp = explode("--", $_GET['sid']);
+			$discountCoupon = $exp[1];
+			WC()->cart->apply_coupon( $discountCoupon );
 			wp_redirect(get_permalink(get_the_ID()));
 		}
 	}
