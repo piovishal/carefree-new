@@ -1,2 +1,3 @@
 wp-config.php
 *.zip
+wp-content/plugins/really-simple-ssl/*
